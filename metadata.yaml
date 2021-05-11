@@ -1,5 +1,5 @@
 _repo: The-Secret-Play_65237
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rockwell, Norman
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '33979'
     url: http://www.gutenberg.org/2009/agents/33979
     wikipedia: http://en.wikipedia.org/wiki/Norman_Rockwell
+covers:
+- cover_type: archival
+  image_path: 65237-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65237#The-Secret-Play
 gutenberg_issued: '2021-05-02'
 gutenberg_type: Text
 identifiers:
